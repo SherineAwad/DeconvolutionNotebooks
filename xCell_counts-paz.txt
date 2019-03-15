@@ -1,0 +1,68 @@
+	PAZ00_1	PAZ00_2	PAZ00_3	PAZ14_1	PAZ14_2	PAZ14_3
+Adipocytes	0	0	0	0.0159	0.0158	0.0097
+Astrocytes	0	0	0	0	0	0
+B-cells	0	0	0	0	0	0
+Basophils	0	0.0033	0	0.0225	0.019	0.0207
+CD4+ T-cells	0	0	0	0	0	0
+CD4+ Tcm	0	0	0	0	0	0
+CD4+ Tem	0	0	0	0	0	0
+CD4+ memory T-cells	0.001	6e-04	2e-04	0	0	0
+CD4+ naive T-cells	0	0	0	0	0	0
+CD8+ T-cells	0	0	0	0	0	0
+CD8+ Tcm	0	0	4e-04	0	0	0
+CD8+ Tem	0	0	0	0	0	0
+CD8+ naive T-cells	0.0023	0.001	5e-04	0	0	0
+CLP	8e-04	0	3e-04	0	0	0
+CMP	0	0	0	0	0	0
+Chondrocytes	0	0	0	0	0	0
+Class-switched memory B-cells	0	0.0011	0.0022	0	0	0
+DC	0	0	0	0	0	0
+Endothelial cells	0	0	0	0	0	0
+Eosinophils	0	0	0	0	0	0
+Epithelial cells	0	0	7e-04	0	0	0
+Erythrocytes	0	0	0	0	0	0
+Fibroblasts	0	0	0	0.07	0.0689	0.0277
+GMP	0	0	7e-04	0	0	0
+HSC	0.0038	1e-04	0	0	0	0
+Hepatocytes	0	0	0	0.0015	0.0016	0.0011
+Keratinocytes	0	0	1e-04	0	0	0
+MEP	0.0191	0.0165	0.0016	0	0	0.0094
+MPP	0	0	0	0	0	0
+MSC	0.0729	0.0778	0.0975	0	0	0.0664
+Macrophages	0	0	0	0	0	0
+Macrophages M1	0	0	0	0	0	0
+Macrophages M2	0	0	1e-04	0.0038	0.0043	0.0052
+Mast cells	0	0	0	0	2e-04	1e-04
+Megakaryocytes	0	0	2e-04	0	0	0
+Melanocytes	0	0	2e-04	0	0	0.0018
+Memory B-cells	0.0029	0.0029	8e-04	0	0	5e-04
+Mesangial cells	0	0	0	0	0	0
+Monocytes	0	0	0	0	0	0
+Myocytes	0	0	0	0	0	0
+NK cells	0	0	0	0	0	0
+NKT	0.0101	0.0062	0.0027	0	0.0017	0.0073
+Neurons	0	0	1e-04	0	0	0
+Neutrophils	0	0	0	0	0	0
+Osteoblast	0	0	0	0	0	0
+Pericytes	0	0	0.0047	0	0.0061	0.007
+Plasma cells	0	0	0.0015	0.0016	0.0021	0.0045
+Platelets	0	0	0	0	0	0
+Preadipocytes	0	0	0	0	0.0079	0
+Sebocytes	0	0	1e-04	0	0	0
+Skeletal muscle	0	0	0	0	0	0
+Smooth muscle	0.0668	0.0691	0.0408	0	0	0
+Tgd cells	0	0	0	0	0	0
+Th1 cells	6e-04	0	0	0	0	0.0023
+Th2 cells	0.0307	0.0304	0.0161	0	0	0.0044
+Tregs	0	0	0	0	0	0
+aDC	0	0	0	0	0	0
+cDC	7e-04	0	4e-04	0	0	0.0012
+iDC	0	0	0	0	0	0
+ly Endothelial cells	0.0011	0.0011	9e-04	0	0	0
+mv Endothelial cells	7e-04	4e-04	0	0	0	0
+naive B-cells	0	0	0	0	0	0
+pDC	0	0	1e-04	0	0	0
+pro B-cells	0	0	0	0	0	0
+ImmuneScore	0	0	0	0	1e-04	1e-04
+StromaScore	0	0	0	0.043	0.0424	0.0187
+MicroenvironmentScore	0	0	0	0.043	0.0425	0.0188
